@@ -8,7 +8,7 @@ npm install transporte-api
 ```
 ### Utilización
 
-Registrate aca para conseguir las credenciales https://www.buenosaires.gob.ar/form/formulario-de-registro-api-transporte
+Registrate [aca](https://api-transporte.buenosaires.gob.ar/registro) para conseguir las credenciales
 
 ```
 const TransporteAPI = require('./lib/TransporteAPI');
