@@ -20,4 +20,4 @@ transporteTest.getTripUpdates().then(result => {
 ```
 El wrapper devuelve por defecto una respuesta en JSON. Se requiere de una libreria externa para poder decodificar las respuestas codificadas en protobuf.
 
-Consulte el api-doc https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte/api-doc para revisar los metodos disponibles.
+Consulte el [api-doc](https://api-transporte.buenosaires.gob.ar/console) para revisar los metodos disponibles.
